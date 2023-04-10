@@ -1,0 +1,30 @@
+/home/masha/.stack/programs/x86_64-linux/ghc-tinfo6-9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+/home/masha/FP/hw1/hw1/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.4.1.0/build/autogen/Paths_hw1.hs:
+  hash: 1acf16c241f9461a3251e193697effea37d71d8c82fe9fc2e710af8ecc24acf2
+/home/masha/FP/hw1/hw1/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: defcd9e5752919ffd6b74240c5398e28c006a301c20c18a8496fa356dd42965e
+/home/masha/FP/hw1/hw1/CHANGELOG.md:
+  hash: c7e82d9daa01ba58b356b1acd4dddf18cc0fd3f3f15d4149d8c9e33914bfecad
+/home/masha/FP/hw1/hw1/README.md:
+  hash: b808283ba3bcad0361e584bce11f0bf5d78892e052275b337805f862ddd31d16
+/home/masha/FP/hw1/hw1/hw1.cabal:
+  hash: ec2beb3dd784f49053a00d15874f7644ed085e52392ef65f6b3dcfa722f81260
+/home/masha/FP/hw1/hw1/package.yaml:
+  hash: bdd0a0baa938fa4963ba1605c71c6631930d4f39b6dbfc40affa5be8eba6bc54
+/home/masha/FP/hw1/hw1/src/HW1/T1.hs:
+  hash: f6dcd16fffe60b8ab2ab44198a6a06b1ac5ee8c02fd6840c4cdbcc7f0a6f59e1
+/home/masha/FP/hw1/hw1/src/HW1/T2.hs:
+  hash: cb206cfb98363c2c3819fb0f33968dfe7b60b03c041b0b0bd9de5ca6bb472f55
+/home/masha/FP/hw1/hw1/src/HW1/T3.hs:
+  hash: 9ff6e7e7024a7f25da08a096a5a1ed33e513f4c8571341c9a176968727eac440
+/home/masha/FP/hw1/hw1/src/HW1/T4.hs:
+  hash: 86443af682bedd0a0480715d38aebc067777e886534b94eceeb979a998232d9d
+/home/masha/FP/hw1/hw1/src/HW1/T5.hs:
+  hash: a25808ba88c0c04be9f9b4f5fba790007d3cbc02b67889686ce408962f208ffc
+/home/masha/FP/hw1/hw1/src/HW1/T6.hs:
+  hash: dc0d2c2030bac4eac1a10c2c89001caf49cc91e32da6792ea1917e0558983ec2
+/home/masha/FP/hw1/hw1/src/HW1/T7.hs:
+  hash: 9b2e63314266760205c73d80e8bfc996a7c6157d66651fbd6c6e2b82604a2780
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff
